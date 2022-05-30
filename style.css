@@ -1,0 +1,14 @@
+html, body {
+  background: #a8c6fe;
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+}
